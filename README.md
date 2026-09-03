@@ -4,7 +4,7 @@ My first Business Intelligence project created using Power BI to practice data v
 
 ## Dashboard Preview
 
-![LIKEUSTYLE E-Commerce Sales Dashboard](Dashboard.png)
+![LikeUstyle_dashboard](Dashboard.png)
 
 ## About the Project
 
